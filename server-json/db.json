@@ -1,0 +1,204 @@
+{
+    "todos": [
+        {
+            "id": 1,
+            "title": "Buy groceries",
+            "description": "Milk, bread, eggs, and vegetables",
+            "completed": false,
+            "tags": [
+                "shopping",
+                "home"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Call doctor",
+            "description": "Schedule annual check-up",
+            "completed": false,
+            "tags": [
+                "health",
+                "appointment"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Read a book",
+            "description": "Finish 'To Kill a Mockingbird'",
+            "completed": false,
+            "tags": [
+                "leisure",
+                "reading"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Pay bills",
+            "description": "Electricity, water, and internet",
+            "completed": false,
+            "tags": [
+                "finance",
+                "home"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Clean the house",
+            "description": "Vacuum, dust, and mop",
+            "completed": false,
+            "tags": [
+                "home",
+                "chores"
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Exercise",
+            "description": "30 minutes of jogging",
+            "completed": false,
+            "tags": [
+                "health",
+                "fitness"
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Write report",
+            "description": "Finish the monthly sales report",
+            "completed": false,
+            "tags": [
+                "work",
+                "report"
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Meet with team",
+            "description": "Discuss project progress",
+            "completed": false,
+            "tags": [
+                "work",
+                "meeting"
+            ]
+        },
+        {
+            "id": 9,
+            "title": "Plan vacation",
+            "description": "Research destinations and book flights",
+            "completed": false,
+            "tags": [
+                "travel",
+                "leisure"
+            ]
+        },
+        {
+            "id": 10,
+            "title": "Learn a new skill",
+            "description": "Start a coding course",
+            "completed": false,
+            "tags": [
+                "education",
+                "personal development"
+            ]
+        },
+        {
+            "id": 11,
+            "title": "Organize closet",
+            "description": "Sort and donate unwanted clothes",
+            "completed": false,
+            "tags": [
+                "home",
+                "organization"
+            ]
+        },
+        {
+            "id": 12,
+            "title": "Prepare dinner",
+            "description": "Cook a healthy meal",
+            "completed": false,
+            "tags": [
+                "home",
+                "cooking"
+            ]
+        },
+        {
+            "id": 13,
+            "title": "Write blog post",
+            "description": "Draft and publish a new article",
+            "completed": false,
+            "tags": [
+                "writing",
+                "blog"
+            ]
+        },
+        {
+            "id": 14,
+            "title": "Walk the dog",
+            "description": "30-minute walk in the park",
+            "completed": false,
+            "tags": [
+                "pets",
+                "exercise"
+            ]
+        },
+        {
+            "id": 15,
+            "title": "Update resume",
+            "description": "Add recent work experience",
+            "completed": false,
+            "tags": [
+                "career",
+                "personal development"
+            ]
+        },
+        {
+            "id": 16,
+            "title": "Plan birthday party",
+            "description": "Send invitations and order cake",
+            "completed": false,
+            "tags": [
+                "event",
+                "social"
+            ]
+        },
+        {
+            "id": 17,
+            "title": "Meditate",
+            "description": "15 minutes of mindfulness",
+            "completed": false,
+            "tags": [
+                "health",
+                "wellness"
+            ]
+        },
+        {
+            "id": 18,
+            "title": "Backup important files",
+            "description": "Copy files to external drive",
+            "completed": false,
+            "tags": [
+                "technology",
+                "organization"
+            ]
+        },
+        {
+            "id": 19,
+            "title": "Water plants",
+            "description": "Check soil moisture and water as needed",
+            "completed": false,
+            "tags": [
+                "home",
+                "gardening"
+            ]
+        },
+        {
+            "id": 20,
+            "title": "Review budget",
+            "description": "Check spending and adjust as needed",
+            "completed": false,
+            "tags": [
+                "finance",
+                "planning"
+            ]
+        }
+    ]
+}
