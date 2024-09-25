@@ -1,3 +1,6 @@
-Get started by customizing your environment (defined in the .idx/dev.nix file) with the tools and IDE extensions you'll need for your project!
+# NOTE
+This project build on project IDX of Google
 
-Learn more at https://developers.google.com/idx/guides/customize-idx-env
+- client: React + Vite
+- server: Express
+- server-json: json-server
